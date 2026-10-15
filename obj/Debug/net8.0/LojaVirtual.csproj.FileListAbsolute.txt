@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\bin\Debug\net8.0\LojaVirtual.exe
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\bin\Debug\net8.0\LojaVirtual.deps.json
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\bin\Debug\net8.0\LojaVirtual.runtimeconfig.json
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\bin\Debug\net8.0\LojaVirtual.dll
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\bin\Debug\net8.0\LojaVirtual.pdb
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.dll
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\refint\LojaVirtual.dll
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.pdb
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\LojaVirtual.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Builder\Exercicio-Padrao-Builder\LojaVirtual\obj\Debug\net8.0\ref\LojaVirtual.dll
